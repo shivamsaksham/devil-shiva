@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devil-shiva
+- 👋 Hi, I’m Shivam Jha
 - 👀 I’m interested in Computer and it's Working
 - 🌱 I’m currently learning How to Survive
 - 💞️ I’m looking to collaborate on Any project as long as it tis related to Computer
