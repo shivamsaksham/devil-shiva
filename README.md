@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Saksham
 - 👀 I’m interested in Computer and it's Working
 - 🌱 I’m currently learning How to Survive
-- 💞️ I’m looking to collaborate on Any project as long as it tis related to Computer
+- 💞️ I’m looking to collaborate on Any project as long as it is related to Computer
 - 📫 How to reach me teamhacktwist@gmail.com
 
 <!---
